@@ -1,0 +1,11 @@
+{
+  "nome": "joao",
+  "cpf": "1234",
+  "telefone": "1234",
+  "pin": "1234",
+  "saldo": 0.0,
+  "Historico": [
+    "Deposito de R$ 30.00",
+    "Levantamento de R$ 30.00"
+  ]
+}
