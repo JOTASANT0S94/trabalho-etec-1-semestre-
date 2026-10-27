@@ -1,0 +1,15 @@
+{
+  "name": "banco-de-dados",
+  "version": "1.0.0",
+  "description": "teste de conexao bd-node",
+  "license": "ISC",
+  "author": "santos",
+  "type": "commonjs",
+  "main": "script_db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
